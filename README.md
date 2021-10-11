@@ -1,22 +1,9 @@
-##Hi there! 👋
-##My name is Bhaskar Rai
+# Hi there! 👋
+#  My name is Bhaskar Rai
 
-##I enjoy turning complex problems into simple. When I'm not pushing codes,
-you'll find me cooking, chilling out with friends or working out in the gym.
+## I enjoy turning complex problems into simple. When I'm not pushing codes,
+## you'll find me cooking, chilling out with friends or working out in the gym.
 
-
-
-<!--
-**bhaskar0507/bhaskar0507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Tech stack--
+![1](https://user-images.githubusercontent.com/82999625/136795350-1ccecfd0-2d44-496f-ac75-27e31cbe14ef.jpg)
+![2](https://user-images.githubusercontent.com/82999625/136795421-ba681a44-a55a-4568-b99a-18605d598441.jpg)
